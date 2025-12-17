@@ -37,4 +37,22 @@ SmartDefender addresses this challenge by combining:
 - **AUC-ROC:** ~99.2%  
 - Significant improvement in attack detection sensitivity
 
+
+## Trained Models
+Due to GitHub file size limitations, trained model files (.pkl) are not included in this repository.
+
+To reproduce results:
+1. Install dependencies from `requirements.txt`
+2. Run `train_model.py`
+3. Models will be saved locally in `ai_model/models/`
+
+
 ## 🗂 Project Structure
+ai_model/
+│── train_model.py
+dataset/
+│── UNSW_NB15_training-set.csv
+│── UNSW_NB15_testing-set.csv
+logs/
+|── training_log.txt
+requirements.txt
