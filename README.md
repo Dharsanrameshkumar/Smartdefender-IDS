@@ -5,7 +5,7 @@ This project applies **feature engineering, class imbalance handling, and ensemb
 
 > 📌 **Project Type:** Mini Project / Research Project
 > 📊 **Domain:** Cyber Security, Machine Learning
-> 🎓 **Degree:** B.E. Computer Science and Engineering
+> 🎓 **Degree:** B.E. Computer Science and Engineering(cyber security)
 
 ---
 
